@@ -1,7 +1,7 @@
 {
     "name": "Damro Wale ",
     "short_name": "Damrowale",
-    "start_url": "/index.html",
+    "start_url": ".",
     "display": "standalone",
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
