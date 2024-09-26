@@ -5,6 +5,8 @@
     "display": "standalone",
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
+     "scope": ".",
+    "description":"App For damrowala stationery",
     "icons": [
       {
         "src": "dmro.png",
