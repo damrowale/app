@@ -1,0 +1,15 @@
+{
+    "name": "Damro Wale ",
+    "short_name": "Damrowale",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "icons": [
+      {
+        "src": "dmro.png",
+        "sizes": "500x500",
+        "type": "image/png"
+      }
+    ]
+  }
