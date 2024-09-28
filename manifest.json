@@ -1,10 +1,12 @@
 {
     "name": "Damro Wale ",
     "short_name": "Damrowale",
-    "start_url": "/index.html",
+    "start_url": "index.html",
     "display": "standalone",
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
+     "scope": ".",
+    "description":"App For damrowala stationery",
     "icons": [
       {
         "src": "dmro.png",
