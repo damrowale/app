@@ -1526,6 +1526,26 @@ a {
 .cid-upDsYg9su2 .content-head {
   max-width: 800px;
 }
+.cid-upDGoXTzWm {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #edefeb;
+}
+.cid-upDGoXTzWm .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-upDGoXTzWm .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-upDGoXTzWm .content-text {
+  max-width: 800px;
+}
 .cid-upsZd5nXMb {
   padding-top: 3rem;
   padding-bottom: 2rem;
