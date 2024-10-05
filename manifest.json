@@ -1,17 +1,22 @@
 {
-    "name": "Damro Wale ",
-    "short_name": "Damrowale",
-    "start_url": "index.html",
-    "display": "standalone",
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
-     "scope": ".",
-    "description":"App For damrowala stationery",
-    "icons": [
-      {
-        "src": "dmro.png",
-        "sizes": "500x500",
-        "type": "image/png"
-      }
-    ]
-  }
+    "name":"Damrowale Stationery",
+    "short_name":"Damrowale Stationery",
+    "start_url":"index.html",
+    "display":"standalone",
+    "background_color":"#5900b3",
+    "theme_color":"black",
+    "scope": ".",
+    "description":"Damrowale App | Best Quality Stationery ",
+    "icons":[
+    {
+    "src":"damrowale-logo 192 x 192.png",                     
+    "sizes":"192x192",
+    "type":"image/png"
+    },
+    {
+    "src":"damrowale-logo.png",
+    "sizes":"512x512",
+    "type":"image/png"
+    }
+  ]
+}
