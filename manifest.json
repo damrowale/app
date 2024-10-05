@@ -3,8 +3,8 @@
     "short_name":"Damrowale Stationery",
     "start_url":"index.html",
     "display":"standalone",
-    "background_color":"#FFFFFF",
-    "theme_color":"black",
+    "theme_color": "#ffffff",
+  "background_color": "#ffffff",
     "scope": ".",
     "description":"Damrowale App | Best Quality Stationery ",
     "icons":[
